@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Antigua and Barbuda
+  iso: AG
+  block: 17
+  range: [1521,1615]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "AG-V-1521"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1522"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1523"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1524"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1525"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1526"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1527"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1528"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1529"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1530"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1531"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1532"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1533"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1534"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1535"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1536"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1537"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1538"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1539"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1540"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1541"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1542"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1543"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1544"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1545"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1546"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1547"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1548"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1549"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1550"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1551"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1552"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1553"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1554"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1555"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1556"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1557"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1558"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1559"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1560"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1561"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1562"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1563"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1564"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1565"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1566"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1567"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1568"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1569"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1570"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1571"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1572"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1573"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1574"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1575"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1576"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1577"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1578"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1579"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1580"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1581"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1582"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1583"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1584"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1585"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1586"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1587"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1588"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1589"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1590"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1591"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1592"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1593"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1594"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1595"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1596"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1597"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1598"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1599"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1600"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1601"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1602"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1603"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1604"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1605"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1606"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1607"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1608"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1609"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1610"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1611"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1612"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1613"
+      anchor: "Climate change loss and damage exposure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1614"
+      anchor: "Sovereign debt and external economic pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AG-V-1615"
+      anchor: "Colonial-era extraction and labor systems in the Caribbean"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

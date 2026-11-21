@@ -1,0 +1,27 @@
+{
+  "url": "https://guides.loc.gov/",
+  "final_url": "https://guides.loc.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 28105,
+  "sha256": "1e7e82a8d0c43c5bfc6508454ef4c15ef0948513b58fe6e39f21fbf3635e5ef5",
+  "captured_at": "2026-11-21T18:27:22.613893Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Antigua and Barbuda",
+  "iso": "AG",
+  "title": "Library of Congress - Research Guides / Country Studies",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:30:02 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-backend-server": "libguides-us-5.springyaws.com",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "upgrade-insecure-requests",
+    "strict-transport-security": "max-age=31536000; preload",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a5e1c36a2a51b9d5-MIA"
+  }
+}

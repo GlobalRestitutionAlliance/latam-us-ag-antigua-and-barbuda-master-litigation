@@ -1,0 +1,7 @@
+skill:
+  id: asset-tracing
+  jurisdiction: Antigua and Barbuda
+  status: ACTIVE
+  description: Trace assets and enforcement pathways
+  guardrails:
+    - no_fabricated_citations
