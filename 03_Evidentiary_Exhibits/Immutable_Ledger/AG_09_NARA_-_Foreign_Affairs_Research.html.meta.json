@@ -29,5 +29,10 @@
     "Via": "1.1 454cea9dce953b32cce75c52c4877336.cloudfront.net (CloudFront)",
     "X-Amz-Cf-Pop": "MIA50-P3",
     "X-Amz-Cf-Id": "HdQGjUVZ6hLLrdqFA1B2NJaeXbkPsACVNwQ4sa5vKz4nZGqsNmEsRA=="
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T18:27:21.477909Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }
